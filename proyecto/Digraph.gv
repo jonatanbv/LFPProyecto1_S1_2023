@@ -1,0 +1,10 @@
+// Árbol de Ejemplo
+digraph {
+	A [label="Raíz"]
+	B [label="Nodo B"]
+	C [label="Nodo C"]
+	D [label="Nodo D"]
+	A -> B
+	A -> C
+	B -> D
+}
